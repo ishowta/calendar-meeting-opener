@@ -1,9 +1,9 @@
 ---
-title: crx-gcal-url-opener
+title: calendar-meeting-opener
 description: この拡張機能はGoogleカレンダーと連携し、イベントの開始時間の数分前に自動でGoogle Meet等のリモートミーティングのURLをChromeの新しいタブとして開きます。
 ---
 
-# crx-gcal-url-opener
+# calendar-meeting-opener
 
 [プライバシーポリシー](#%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%81%B8%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF)
 
@@ -42,4 +42,4 @@ description: この拡張機能はGoogleカレンダーと連携し、イベン�
 
 なお、取得した上記の情報は Chrome 拡張を利用している PC 内にのみ保持されており、外部サーバ等へデータの送信・保存は一切行っていません。当 Chrome 拡張の「プライバシーへの取り組み」も併せてご参照ください。
 
-https://chrome.google.com/webstore/detail/crx-gcal-url-opener/pjginhohpenlemfdcjbahjbhnpinfnlm?hl=ja
+https://chrome.google.com/webstore/detail/calendar-meeting-opener/bliodbopofmhhjjgidliggjipkccloce?hl=ja
